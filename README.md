@@ -28,9 +28,7 @@ I am a BBA candidate specializing in marketing and operations, but I don't just 
 - 📈 **Growth Focus:** Scaling organic reach through sharp hooks and bootstrapped case studies.
 - 🎨 **Aesthetic Discipline:** Strict adherence to modern UI trends (Liquid Glass, glassmorphism) and seamless loop animations.
 
-<p align="center">
-  <img src="./liquid_glass_banner.png" alt="Anurag's Liquid Glass Marketing Dashboard" width="100%" style="border-radius: 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
-</p>
+
 
 ---
 
